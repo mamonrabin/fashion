@@ -60,8 +60,8 @@ export default function ShopCheckout(){
                                     <div className="m-b25 value-select">
                                         <label className="label-title">Country / Region <span className='text-danger'>*</span></label>                                        
                                         <Form.Select aria-label="Default select example">
-                                            <option defaultValue="India">Another option</option>
-                                            <option value="1">India</option>
+                                            <option defaultValue="Dhaka">Another option</option>
+                                            <option value="1">Dhaka</option>
                                             <option value="2">UK</option>
                                             <option value="3">Iraq</option>
                                         </Form.Select>

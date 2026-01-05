@@ -11,7 +11,7 @@ interface LocationDetailType {
 
 const LocationDetail : LocationDetailType[] = [
     {space:"p-0", image : IMAGES.CountryPic1, title:'United states',second:'0.1s', address: "4547 Irwin Manor, Apt. 953, 68488, South Arch, Florida, United States"},
-    {space:"", image : IMAGES.CountryPic2, title:'India',second:'0.2s', address: "230 Ron Trail, Apt. 242, 0162, Pretoria, Rajasthan, India"},
+    {space:"", image : IMAGES.CountryPic2, title:'Dhaka',second:'0.2s', address: "230 Ron Trail, Apt. 242, 0162, Pretoria, Rajasthan, Dhaka"},
     {space:"", image : IMAGES.CountryPic3, title:'South Africa',second:'0.3s', address: "05876 Tyrone Spurs, Durban, KwaZulu-Natal, South Africa"},
 ];
 

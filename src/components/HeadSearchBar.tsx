@@ -15,10 +15,10 @@ export default function HeadSearchBar(){
                 </div>
                 <ul className="recent-tag">
                     <li className="pe-0"><span>Quick Search :</span></li>
-                    <li><Link href="/shop-list">Clothes</Link></li>
-                    <li><Link href="/shop-list">UrbanSkirt</Link></li>
-                    <li><Link href="/shop-list">VelvetGown</Link></li>
-                    <li><Link href="/shop-list">LushShorts</Link></li>
+                    <li><Link href="/shop-filters-top-bart">Clothes</Link></li>
+                    <li><Link href="/shop-filters-top-bart">UrbanSkirt</Link></li>
+                    <li><Link href="/shop-filters-top-bart">VelvetGown</Link></li>
+                    <li><Link href="/shop-filters-top-bart">LushShorts</Link></li>
                 </ul>
             </form>
             <div className="row">

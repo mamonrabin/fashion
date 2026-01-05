@@ -38,7 +38,7 @@ export default function AccountBillingAddress(){
 											<div className="m-b25">
 												<label className="label-title">Country / Region <span className="text-danger">*</span></label>
 												<select className="form-control">
-													<option defaultValue="India">India</option>
+													<option defaultValue="Dhaka">Dhaka</option>
 													<option value="1">Another option</option>
 													<option value="2">UK</option>
 													<option value="3">Iraq</option>

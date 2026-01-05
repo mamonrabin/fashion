@@ -3175,10 +3175,10 @@ readers do not read off random characters that represent icons */
 .fa-indent::before {
   content: "\f03c"; }
 
-.fa-indian-rupee-sign::before {
+.fa-Dhakan-rupee-sign::before {
   content: "\e1bc"; }
 
-.fa-indian-rupee::before {
+.fa-Dhakan-rupee::before {
   content: "\e1bc"; }
 
 .fa-inr::before {

@@ -51,7 +51,7 @@ export default function Login(){
                                     </div>
                                 </div>
                                 <div className="text-center">
-                                    <Link href="/account-dashboard" className="btn btn-secondary btnhover text-uppercase me-2 sign-btn">Sign In</Link>
+                                    <Link href="/" className="btn btn-secondary btnhover text-uppercase me-2 sign-btn">Sign In</Link>
                                     <Link href="/registration" className="btn btn-outline-secondary btnhover text-uppercase">Register</Link>
                                 </div>
                             </form>

@@ -199,7 +199,7 @@ export const countries: CountryItem[] = [
     },
     {
         imgSrc: IMAGES.CountryPic2,
-        country: "India",
+        country: "Dhaka",
         amount: "$110.00",
     },
     {

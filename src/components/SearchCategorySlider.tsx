@@ -46,7 +46,7 @@ export default function SearchCategorySlider(){
                             <Image src={elem.image} alt="cat" />
                         </div>
                         <div className="dz-content">
-                            <h6 className="title"><Link href="/shop-list">{elem.name}</Link></h6>
+                            <h6 className="title"><Link href="/shop-filters-top-bar">{elem.name}</Link></h6>
                             <h6 className="price">$40.00</h6>
                         </div>
                     </div>

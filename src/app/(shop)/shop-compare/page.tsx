@@ -204,10 +204,10 @@ const ShopComparePage = () =>{
                                     </tr>
                                     <tr>
                                         <td>Country of Origin</td>
-                                        <td><span><i className="fa-solid fa-check"/></span>India</td>
-                                        <td><span><i className="fa-solid fa-check"/></span>India</td>
-                                        <td className="disable"><span><i className="fa-solid fa-check"/></span>India</td>
-                                        <td><span><i className="fa-solid fa-check"/></span>India</td>
+                                        <td><span><i className="fa-solid fa-check"/></span>Dhaka</td>
+                                        <td><span><i className="fa-solid fa-check"/></span>Dhaka</td>
+                                        <td className="disable"><span><i className="fa-solid fa-check"/></span>Dhaka</td>
+                                        <td><span><i className="fa-solid fa-check"/></span>Dhaka</td>
                                     </tr>
                                     <tr>
                                         <td>Item model number</td>

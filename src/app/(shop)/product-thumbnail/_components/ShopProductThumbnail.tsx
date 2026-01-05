@@ -77,7 +77,7 @@ export default function ShopProductThumbnail(){
                                                     <ul className="specification-list m-b40">
                                                         <li className="list-info">Manufacturer <span>Indra Hosiery Mills</span></li>
                                                         <li className="list-info">ASIN<span>B07WK128569</span></li>
-                                                        <li className="list-info">Country of Origin<span>India</span></li>
+                                                        <li className="list-info">Country of Origin<span>Dhaka</span></li>
                                                         <li className="list-info">Department<span>Women</span></li>
                                                         <li className="list-info">Included Components<span>Women's Jacket</span></li>
                                                         <li className="list-info">Item Dimensions LxWxH<span> 71.1 x 45.7 x 7.6 Centimeters</span></li>
@@ -140,7 +140,7 @@ export default function ShopProductThumbnail(){
                                                         <div className="col-lg-6 col-md-6 m-sm-b20 m-b30">
                                                             <Link href="/shop-standard" className="about-product-wrapper">
                                                                 <div className="producṭ-content bg-light">
-                                                                    <h4 className="product-title">100% Made In India</h4>
+                                                                    <h4 className="product-title">100% Made In Dhaka</h4>
                                                                     <p className="product-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                                                                 </div>
                                                             </Link>

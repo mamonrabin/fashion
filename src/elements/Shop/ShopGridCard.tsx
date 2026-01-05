@@ -39,7 +39,7 @@ export default function ShopGridCard(props: cardType){
                 </div>							
             </div>
             <div className="dz-content">
-                <h5 className="title"><Link href="/shop-list">{props.title}</Link></h5>
+                <h5 className="title"><Link href="/product-thumbnail">{props.title}</Link></h5>
                 <h5 className="price">{props.price}</h5>
             </div>
             <div className="product-tag">

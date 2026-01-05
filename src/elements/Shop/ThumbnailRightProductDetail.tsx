@@ -71,18 +71,18 @@ export default function ThumbnailRightProductDetail(props : thumbnailCardtype){
                     </ul>
                     <ul>
                         <li><strong>Category:</strong></li>
-                        <li><Link href="/shop-standard">Dresses,</Link></li>												
-                        <li><Link href="/shop-standard">Jeans,</Link></li>												
-                        <li><Link href="/shop-standard">Swimwear,</Link></li>												
-                        <li><Link href="/shop-standard">Summer,</Link></li>												
-                        <li><Link href="/shop-standard">Clothing,</Link></li>												
+                        <li><Link href="/shop-filters-top-bar">Dresses,</Link></li>												
+                        <li><Link href="/shop-filters-top-bar">Jeans,</Link></li>												
+                        <li><Link href="/shop-filters-top-bar">Swimwear,</Link></li>												
+                        <li><Link href="/shop-filters-top-bar">Summer,</Link></li>												
+                        <li><Link href="/shop-filters-top-bar">Clothing,</Link></li>												
                     </ul>
                     <ul>
                         <li><strong>Tags:</strong></li>
-                        <li><Link href="/shop-standard">Casual,</Link></li>												
-                        <li><Link href="/shop-standard">Athletic,</Link></li>												
-                        <li><Link href="/shop-standard">Workwear,</Link></li>												
-                        <li><Link href="/shop-standard">Accessories,</Link></li>												
+                        <li><Link href="/shop-filters-top-bar">Casual,</Link></li>												
+                        <li><Link href="/shop-filters-top-bar">Athletic,</Link></li>												
+                        <li><Link href="/shop-filters-top-bar">Workwear,</Link></li>												
+                        <li><Link href="/shop-filters-top-bar">Accessories,</Link></li>												
                     </ul>
                     <ul className="social-icon">
                         <li><strong>Share:</strong></li>

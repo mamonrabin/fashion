@@ -252,7 +252,7 @@ export default function Menus(){
                                                 <Fragment key={i}>
                                                     <li ><Link href={`${elem.path}`}>{elem.name}</Link></li>
                                                     {elem.outerlink &&
-                                                        <li className="w3menulink"><Link href="https://xmenu.indiankoder.com/react/" target="_blank">Menu Styles</Link></li>
+                                                        <li className="w3menulink"><Link href="https://xmenu.Dhakankoder.com/react/" target="_blank">Menu Styles</Link></li>
                                                     }
                                                 </Fragment>
                                             ))}                                                                                       

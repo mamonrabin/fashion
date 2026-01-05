@@ -57,7 +57,7 @@ export default function ShopSidebar(){
                 <h6 className="widget-title">Category</h6>
                 <ul>
                     {CategoryData.map((elem, i)=>(
-                        <li className="cat-item cat-item-26" key={i}><Link href="/blog-category">{elem.name}</Link> ({elem.number})</li>
+                        <li className="cat-item cat-item-26" key={i}><Link href="/shop-filters-top-bar">{elem.name}</Link> ({elem.number})</li>
                     ))}                    
                 </ul>
             </div>
@@ -66,7 +66,7 @@ export default function ShopSidebar(){
                 <h6 className="widget-title">Tags</h6>
                 <div className="tagcloud"> 
                     {TagData.map((item, ind)=>(
-                        <Link href="/blog-tag" key={ind}>{item.tagname}</Link>
+                        <Link href="/shop-filters-top-bar" key={ind}>{item.tagname}</Link>
                     ))}                                                
                 </div>
             </div>            

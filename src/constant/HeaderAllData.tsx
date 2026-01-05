@@ -576,7 +576,7 @@ export const HeaderThree = `
                                                     <Fragment>
                                                         <li key={i}><Link to={\`\${elem.path}\`}>{elem.name}</Link></li>
                                                         {elem.outerlink &&
-                                                            <li className="w3menulink"><Link to="https://xmenu.indiankoder.com/react/" target="_blank">Menu Styles</Link></li>
+                                                            <li className="w3menulink"><Link to="https://xmenu.Dhakankoder.com/react/" target="_blank">Menu Styles</Link></li>
                                                         }
                                                     </Fragment>
                                                 ))}
