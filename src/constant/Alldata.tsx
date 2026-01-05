@@ -1206,7 +1206,7 @@ export const menuDataOne: MenuItemOne[] = [
     {
       title: "Shop Structure",
       links: [
-        { name: "Shop Standard", path: "/shop-standard" },
+        { name: "Shop Standard", path: "/shop-filters-top-bar" },
         { name: "Shop List", path: "/shop-list" },
         { name: "Shop With Category", path: "/shop-with-category" },
         { name: "Shop Filters Top Bar", path: "/shop-filters-top-bar" },

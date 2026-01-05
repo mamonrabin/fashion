@@ -91,7 +91,7 @@ export default function Menus(){
                                 <li className="month-deal">
                                     <div className="clearfix me-3">
                                         <h3>Deal of the month</h3>
-                                        <p className="mb-0">Yes! Send me exclusive offers, personalised, and unique gift ideas, tips for shopping on Pixio <Link href="/shop-standard" className="dz-link-2">View All Products</Link></p>
+                                        <p className="mb-0">Yes! Send me exclusive offers, personalised, and unique gift ideas, tips for shopping on Pixio <Link href="/shop-filters-top-bar" className="dz-link-2">View All Products</Link></p>
                                     </div>
                                     <div className="sale-countdown">
                                         <CountdownBlog />

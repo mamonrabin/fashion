@@ -63,13 +63,13 @@ export default function BasicModalData(){
                         <ul>
                             <li><strong>Category:</strong></li>
                             {modalCategoryBlog.map((elem, ind)=>(
-                                <li key={ind}><Link href="/shop-standard">{elem.name}</Link></li>
+                                <li key={ind}><Link href="/shop-filters-top-bar">{elem.name}</Link></li>
                             ))}
                         </ul>
                         <ul>
                             <li><strong>Tags:</strong></li>
                             {modalCategoryBlog2.map((elem, ind)=>(
-                                <li key={ind}><Link href="/shop-standard">{elem.name}</Link></li>
+                                <li key={ind}><Link href="/shop-filters-top-bar">{elem.name}</Link></li>
                             ))}                                                    
                         </ul>
                         <div className="dz-social-icon">

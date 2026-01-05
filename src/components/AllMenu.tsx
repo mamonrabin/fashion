@@ -19,7 +19,7 @@ export const AllMenu = [
       {
         child: "Shop Structure",
         subchild: [
-          { children: "Shop Standard", to: "/shop-standard" },
+          { children: "Shop Standard", to: "/shop-filters-top-bar" },
           { children: "Shop List", to: "/shop-list" },
           { children: "Shop With Category", to: "/shop-with-category" },
           { children: "Shop Filters Top Bar", to: "/shop-filters-top-bar" },

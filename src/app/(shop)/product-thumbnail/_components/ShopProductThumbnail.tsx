@@ -122,7 +122,7 @@ export default function ShopProductThumbnail(){
                                                 <div className="col-lg-6">
                                                     <div className="row">
                                                         <div className="col-lg-6 col-md-6 m-sm-b20 m-b30">
-                                                            <Link href="/shop-standard" className="about-product-wrapper">
+                                                            <Link href="/shop-filters-top-bar" className="about-product-wrapper">
                                                                 <div className="producṭ-content bg-light">
                                                                     <h4 className="product-title">All-in-One Dress</h4>
                                                                     <p className="product-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
@@ -130,7 +130,7 @@ export default function ShopProductThumbnail(){
                                                             </Link>
                                                         </div>
                                                         <div className="col-lg-6 col-md-6 m-sm-b20 m-b30">
-                                                            <Link href="/shop-standard" className="about-product-wrapper">
+                                                            <Link href="/shop-filters-top-bar" className="about-product-wrapper">
                                                                 <div className="producṭ-content bg-light">
                                                                     <h4 className="product-title">Looking wise good</h4>
                                                                     <p className="product-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
@@ -138,7 +138,7 @@ export default function ShopProductThumbnail(){
                                                             </Link>
                                                         </div>
                                                         <div className="col-lg-6 col-md-6 m-sm-b20 m-b30">
-                                                            <Link href="/shop-standard" className="about-product-wrapper">
+                                                            <Link href="/shop-filters-top-bar" className="about-product-wrapper">
                                                                 <div className="producṭ-content bg-light">
                                                                     <h4 className="product-title">100% Made In Dhaka</h4>
                                                                     <p className="product-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
@@ -146,7 +146,7 @@ export default function ShopProductThumbnail(){
                                                             </Link>
                                                         </div>
                                                         <div className="col-lg-6 col-md-6 m-sm-b20 m-b30">
-                                                            <Link href="/shop-standard" className="about-product-wrapper">
+                                                            <Link href="/shop-filters-top-bar" className="about-product-wrapper">
                                                                 <div className="producṭ-content bg-light">
                                                                     <h4 className="product-title">100% Cotton</h4>
                                                                     <p className="product-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>

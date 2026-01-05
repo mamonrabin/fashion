@@ -29,7 +29,7 @@ const AllProduction = () => {
                         </div>	
                     </div>
                     <div className="col-lg-4 col-md-4 col-sm-12 text-md-end" >	
-                        <Link href="/shop-standard" className="icon-button d-md-block d-none ms-md-auto m-b30" >
+                        <Link href="/shop-filters-top-bar" className="icon-button d-md-block d-none ms-md-auto m-b30" >
                             <div className="text-row word-rotate-box c-black">
                                 <ProductRollup />
                                 <svg className="badge__emoji" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none"

@@ -22,7 +22,7 @@ export default function MainBanner3({OpenVideo} : modelType){
 										and experiences in every market.  </p>
 									<div className="content-btn m-b30 wow fadeInUp" data-wow-delay="0.8s" data-swiper-parallax="-60">
 										<Link  className="btn btn-secondary btn-lg  me-xl-3 me-2 btnhover20" href="/shop-cart">ADD TO CART</Link>
-										<Link  className="btn btn-outline-secondary btn-lg btnhover20" href="/shop-standard">VIEW DETAILS</Link>
+										<Link  className="btn btn-outline-secondary btn-lg btnhover20" href="/shop-filters-top-bar">VIEW DETAILS</Link>
 									</div>
 								</div>
 							</div>
@@ -33,7 +33,7 @@ export default function MainBanner3({OpenVideo} : modelType){
 											<Image src={IMAGES.ShopSmallPic1} alt="/"/>									
 										</div>
 										<div className="dz-content">
-											<h5 className="dz-title"><Link href="/shop-standard">Collar Casual Shirt</Link></h5>
+											<h5 className="dz-title"><Link href="/shop-filters-top-bar">Collar Casual Shirt</Link></h5>
 											<span className="price">
 												$19
 												<del className="ms-1">$27</del>
@@ -47,7 +47,7 @@ export default function MainBanner3({OpenVideo} : modelType){
 											<Image src={IMAGES.ShopSmallPic2} alt="shop"/>									
 										</div>
 										<div className="dz-content">
-											<h5 className="dz-title"><Link href="/shop-standard">Collar Check Shirt</Link></h5>
+											<h5 className="dz-title"><Link href="/shop-filters-top-bar">Collar Check Shirt</Link></h5>
 											<span className="price">
 												$20
 												<del className="ms-1">$28</del>

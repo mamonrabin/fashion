@@ -7,7 +7,7 @@ const FeaturedBlog = () => {
         <div className="row">
             <div className="col-lg-8 left-box">
                 <FeaturedCategorySlider />
-                <Link className="icon-button" href="/shop-standard">
+                <Link className="icon-button" href="/shop-filters-top-bar">
                     <div className="text-row word-rotate-box c-black border-secondary">
                         <MoreCollectionBlog />                        
                         <svg className="badge__emoji" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 35 35" fill="none">
@@ -33,7 +33,7 @@ const FeaturedBlog = () => {
                         </div>
                     </div>
                 </div>
-                <Link className="icon-button" href="/shop-standard">
+                <Link className="icon-button" href="/shop-filters-top-bar">
                     <div className="text-row word-rotate-box c-black border-white">
                         <MoreCollectionBlog />                        
                         <svg className="badge__emoji" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 35 35" fill="none">
